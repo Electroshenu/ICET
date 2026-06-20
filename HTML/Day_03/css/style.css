@@ -1,5 +1,34 @@
-h1 {
+/* h1 {
     background-color: lightblue;
     text-align: center;
     color: tomato;
+}
+
+p {
+    text-align: left;
+    font-size: 18px;
+    color: red;
+    background-color: lightgrey;
+}
+
+body {
+    background-color: black;
+    background-color: white;
+} */
+
+.bg-blue-h1 {
+    background-color: lightblue;
+    text-align: center;
+    color: tomato;
+}
+
+.bg-lightgrey-p {
+    text-align: left;
+    font-size: 18px;
+    color: red;
+    background-color: lightgrey;
+}
+
+#pg-background {
+    background-color: black;
 }
